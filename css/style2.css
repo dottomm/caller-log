@@ -1,0 +1,106 @@
+
+
+  #tabvanilla ul{
+    display: inline;
+    margin-bottom: 6px;
+  }
+  #tabvanilla li{
+display: inline;
+
+  }
+
+  #tabvanilla{
+    margin-top: 2em;
+
+  }
+
+   #tabvanilla .widget {
+    margin-top: 1em;
+    padding: 8px;
+    margin-bottom: 10px;
+    }
+
+    .widget a {
+	background-color: #D5E7F5;
+    border: solid 1px #B1D6F2;
+    text-decoration: none;
+
+    }
+	
+
+    .widget a:hover {
+           }
+           
+        
+
+  .tabnav li {
+    display: inline;
+    list-style: none;
+    padding-right: 2px;
+    }
+    
+   #tabvanilla{
+   
+width:100%;
+padding-right:0;
+   } 
+   
+   .tabnav{
+   padding-left:20px;
+   }
+    
+      #tabvanilla .tabnav li a {
+    text-decoration: none;
+    color: #0c639f;
+
+    font-weight: normal;
+    padding: 2px 5px;
+    outline: none;
+ border:1px solid #ccc;
+    }
+
+#tabvanilla li a:hover{
+
+border: 1px solid #B1D6F2;
+text-decoration: none;
+ 
+}
+
+#tabvanilla li a:active, #tabvanilla li.ui-tabs-selected a {
+
+
+text-decoration: none;
+ 
+}
+
+
+
+    .tabdiv {
+    margin-top: 2px;
+    background: #fff;
+    padding: 5px;
+     line-height:150%;
+     color:#000;
+    }
+    
+    .tabdiv p{
+    margin-left:4em;
+	margin-right:4em;
+
+    text-align:justified;
+    }
+    
+    .tabdiv ul{
+    }
+
+    .tabdiv ul li {
+    margin-left: 20px;
+    margin-top:20px;
+    }
+
+    .ui-tabs-hide {
+    display: none;
+    }
+
+
+    

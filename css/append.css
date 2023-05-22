@@ -1,0 +1,56 @@
+.box{
+background-color: #eee;
+padding:6px;
+width: 14em;
+
+}
+
+.span4{
+
+
+}
+
+.span4 h2{
+	font-size: 160%;
+}
+
+.span4 th{
+	font-size: .73em;
+}
+
+.span4 td{
+	font-size: .73em;
+}
+
+.span8{
+	padding-left:.1em;
+
+
+}
+
+
+.span8 label{
+
+	font-weight: 500;
+}
+
+
+
+
+
+.span12 iframe{
+	
+	color:#ccc;
+min-height: 800px;
+min-width: 400px;
+border:0;
+}
+
+
+
+
+textarea{
+
+	border:2px solid;
+	width:200px;
+}
